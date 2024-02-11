@@ -1,4 +1,4 @@
-// package deco facilitate the chaining of decorators.
+// package deco facilitates the chaining of decorators.
 package deco
 
 // Chain combines multiple decorators into a single one.
