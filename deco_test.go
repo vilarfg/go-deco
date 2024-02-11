@@ -7,7 +7,8 @@ import (
 	"github.com/vilarfg/go-deco"
 )
 
-func Test(t *testing.T) {
+// Tests the entire API.
+func TestAPI(t *testing.T) {
 	var (
 		stop      = func(s string) string { return s + ". Stop it." }
 		name      = func(s string) string { return "Ford, " + s }
