@@ -1,4 +1,9 @@
 # Deco
+![Build Status](https://github.com/vilarfg/go-deco/actions/workflows/build.yml/badge.svg)
+[![codecov](https://codecov.io/gh/vilarfg/go-deco/graph/badge.svg?token=QO2TV80CNC)](https://codecov.io/gh/vilarfg/go-deco)
+[![rcard](https://goreportcard.com/badge/github.com/vilarfg/go-deco?v=4)](https://goreportcard.com/report/github.com/vilarfg/go-deco)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/vilarfg/go-deco)](https://pkg.go.dev/github.com/vilarfg/go-deco)
+[![License](https://img.shields.io/github/license/vilarfg/go-deco)](https://raw.githubusercontent.com/vilarfg/go-deco/master/LICENSE)
 
 Decorator chaining for [Go](https://go.dev/).
 
