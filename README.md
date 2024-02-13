@@ -1,5 +1,11 @@
 # Deco
 
+![Build Status](https://github.com/vilarfg/go-deco/actions/workflows/build.yml/badge.svg)
+[![codecov](https://codecov.io/gh/vilarfg/go-deco/graph/badge.svg?token=QO2TV80CNC)](https://codecov.io/gh/vilarfg/go-deco)
+[![rcard](https://goreportcard.com/badge/github.com/vilarfg/go-deco?v=4)](https://goreportcard.com/report/github.com/vilarfg/go-deco)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/vilarfg/go-deco)](https://pkg.go.dev/github.com/vilarfg/go-deco)
+[![License](https://img.shields.io/github/license/vilarfg/go-deco)](https://raw.githubusercontent.com/vilarfg/go-deco/master/LICENSE)
+
 Decorator chaining for [Go](https://go.dev/).
 
 Deco is a lightweight, generic Go package designed to facilitate the chaining of decorators, providing a simple yet powerful API for enhancing or modifying behavior in a composable manner. By reducing chains to a single function (a new decorator), Deco ensures that these chains become immutable and therefore thread-safe, making it ideal for applications requiring high concurrency or immutable data patterns. Whether for HTTP middleware, logging, data processing, or other processing layers, Deco offers a clean and flexible solution.
