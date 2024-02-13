@@ -1,4 +1,5 @@
 # Deco
+
 ![Build Status](https://github.com/vilarfg/go-deco/actions/workflows/build.yml/badge.svg)
 [![codecov](https://codecov.io/gh/vilarfg/go-deco/graph/badge.svg?token=QO2TV80CNC)](https://codecov.io/gh/vilarfg/go-deco)
 [![rcard](https://goreportcard.com/badge/github.com/vilarfg/go-deco?v=4)](https://goreportcard.com/report/github.com/vilarfg/go-deco)
